@@ -9,45 +9,52 @@
 
 _italic_
 
+<!-- Bold -->
 **bold**
 
+<!-- Strike Through-->
 ~~strike~~
 
-<!-- Horizontal -->
+<!-- Horizontal Line -->
 
 --- 
 ___
 
-<!-- block quote -->
+<!-- Block quote -->
 > this is a block
 
 <!--  links -->
-[link name](inserlink.com)
+[This is a link](inserlink.com)
 
-[link name](inserlink.com "tooltip")
+[This is a link with tooltip](inserlink.com "tooltip")
 
-<!-- UL -->
+<!-- Unordered List -->
 * item1
     * item2
 
-<!--OL-->
+<!--Ordered List-->
 
-1. hi
-2. bye
+1. first item
+2. second item
 
 <!-- inline code block-->
 `<p></p>`
 
 <!--Images-->
-![Mardk logo](https://avatars.githubusercontent.com/u/28359525?s=64&v=4)
+
+![Hollow Knight](hollo.jpg)
 
 
 <!-- github md-->
+
+<!-- Bash script block -->
 
 ```bash
     npm install
     1
 ```
+
+<!-- JS Block-->
 
 ```javascript
 function add(num1, num2){
@@ -56,6 +63,8 @@ function add(num1, num2){
 
 ```
 
+<!-- Python block-->
+
 ```python
 print("Hi there")
 ```
@@ -63,4 +72,4 @@ print("Hi there")
 
 <!-- task list -->
 * [x] done
-* [] not done
+* [ ] not done
