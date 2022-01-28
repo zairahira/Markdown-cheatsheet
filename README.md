@@ -51,7 +51,7 @@ ___
 
 ```bash
     npm install
-    1
+    
 ```
 
 <!-- JS Block-->
