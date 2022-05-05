@@ -103,3 +103,14 @@ print("Hi there")
 ```diff
 - This line is removed.
 + This line is added.
+```
+
+## Collapsible content
+   <details>
+          <summary>Click to see more!</summary>
+          
+            ## More awesoms tips!
+
+            - item 1 
+            - item 2
+        </details>
