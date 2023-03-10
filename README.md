@@ -20,7 +20,7 @@ _italic_
 --- 
 ___
 
-## Block quotes
+## Block quote
 
 <!-- Block quote -->
 > this is a block
