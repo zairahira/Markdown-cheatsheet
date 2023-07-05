@@ -12,7 +12,7 @@ _italic_
 <!-- Bold -->
 **bold**
 
-<!-- Strike Through-->
+<!-- Strike Through -->
 ~~strike~~
 
 <!-- Horizontal Line -->
@@ -26,7 +26,7 @@ ___
 > this is a block
 
 ## Links
-<!--  links -->
+<!-- links -->
 [This is a link](inserlink.com)
 
 [This is a link with tooltip](inserlink.com "tooltip")
@@ -37,13 +37,13 @@ ___
 * item1
     * item2
 
-<!--Ordered List-->
+<!--Ordered List -->
 
 1. first item
 2. second item
 
 ## Inline code block
-<!-- inline code block-->
+<!-- inline code block -->
 `<p></p>`
 
 ## Images
@@ -52,7 +52,7 @@ ___
 ![Hollow Knight](hollo.jpg)
 
 
-<!-- github md-->
+<!-- github md -->
 
 ## Code Blocks
 ### Bash code block
@@ -60,12 +60,12 @@ ___
 <!-- Bash script block -->
 
 ```bash
-    npm install
+npm install
     
 ```
 ### JS code block
 
-<!-- JS Block-->
+<!-- JS Block -->
 
 ```javascript
 function add(num1, num2){
@@ -75,7 +75,7 @@ function add(num1, num2){
 ```
 ### Python code block
 
-<!-- Python block-->
+<!-- Python block -->
 
 ```python
 print("Hi there")
@@ -119,14 +119,12 @@ print("Hi there")
 >>>>> One.
 
 ## Collapsible content
+
    <details>
-          <summary>Click to see more!</summary>
-          
-            ## More awesoms tips!
+    <summary>Click to see more!</summary>
+    
+    ## More awesome tips!
 
-            - item 1 
-            - item 2
-        </details>
-
-
-
+    - item 1 
+    - item 2
+   </details>
